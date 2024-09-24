@@ -1,0 +1,15 @@
+C:\Wassim\CDA\C#\Annuaire\bin\Debug\net6.0\Annuaire.exe
+C:\Wassim\CDA\C#\Annuaire\bin\Debug\net6.0\Annuaire.deps.json
+C:\Wassim\CDA\C#\Annuaire\bin\Debug\net6.0\Annuaire.runtimeconfig.json
+C:\Wassim\CDA\C#\Annuaire\bin\Debug\net6.0\Annuaire.dll
+C:\Wassim\CDA\C#\Annuaire\bin\Debug\net6.0\ref\Annuaire.dll
+C:\Wassim\CDA\C#\Annuaire\bin\Debug\net6.0\Annuaire.pdb
+C:\Wassim\CDA\C#\Annuaire\obj\Debug\net6.0\Annuaire.csproj.AssemblyReference.cache
+C:\Wassim\CDA\C#\Annuaire\obj\Debug\net6.0\Annuaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wassim\CDA\C#\Annuaire\obj\Debug\net6.0\Annuaire.AssemblyInfoInputs.cache
+C:\Wassim\CDA\C#\Annuaire\obj\Debug\net6.0\Annuaire.AssemblyInfo.cs
+C:\Wassim\CDA\C#\Annuaire\obj\Debug\net6.0\Annuaire.csproj.CoreCompileInputs.cache
+C:\Wassim\CDA\C#\Annuaire\obj\Debug\net6.0\Annuaire.dll
+C:\Wassim\CDA\C#\Annuaire\obj\Debug\net6.0\ref\Annuaire.dll
+C:\Wassim\CDA\C#\Annuaire\obj\Debug\net6.0\Annuaire.pdb
+C:\Wassim\CDA\C#\Annuaire\obj\Debug\net6.0\Annuaire.genruntimeconfig.cache
